@@ -37,9 +37,11 @@
 ---
 
 <div align="center">
-    
+
+<h1>Stats of shame</h1>
+
 ![voxicurse's GitHub stats](https://github-readme-stats.vercel.app/api?username=voxicurse&show_icons=true&theme=radical&hide_title=true&hide=contribs)
-    
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voxicurse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
