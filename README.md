@@ -18,7 +18,7 @@
 -BIRTHDAY           25 AUG
 -MAIN LANGUAGE:     PYTHON
 -RANDOM 4 LETTERS:  INTP
--LANGS:             RUS, ENG
+-LANGS:             ru-RU, en-US
 ◀◁-------------------------------◇◈◆◈◇---------------------------------▷▶
     
 >cat /home/voxicurse/other-info
@@ -26,10 +26,16 @@
 ◀◁-------------------------------◇◈◆◈◇---------------------------------▷▶
 -SELF TAUGHT
 -TERRIBLE CODER
--TERRIBLE APPEREANCE
+-TERRIBLE APPEARENCE
 -INSIGNIFICANT INTELLIGENCE
 -CERTIFIED TIME WASTER
 -QUEEN BLUNDERING GRANDMASTER
 ◀◁-------------------------------◇◈◆◈◇---------------------------------▷▶
 </h3>
 </pre>
+
+---
+
+![voxicurse's GitHub stats](https://github-readme-stats.vercel.app/api?username=voxicurse&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voxicurse&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
