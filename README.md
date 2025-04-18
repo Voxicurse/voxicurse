@@ -29,7 +29,6 @@
 -TERRIBLE APPEREANCE
 -INSIGNIFICANT INTELLIGENCE
 -CERTIFIED TIME WASTER
--CERTIFIED FUTA GOONER
 -QUEEN BLUNDERING GRANDMASTER
 ◀◁-------------------------------◇◈◆◈◇---------------------------------▷▶
 </h3>
