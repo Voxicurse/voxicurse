@@ -39,3 +39,8 @@
 ![voxicurse's GitHub stats](https://github-readme-stats.vercel.app/api?username=voxicurse&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voxicurse&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![voxicurse's GitHub stats](https://github-readme-stats.vercel.app/api?username=voxicurse&show_icons=true&theme=radical&hide_title=true&hide=contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voxicurse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
