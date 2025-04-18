@@ -1,7 +1,8 @@
 <h2>STATUS UPDATE:</h2>
-
+```
 <h3>MACHINE ID:    VOXICURSE<p></p>
   ├─AGE:           15<p></p>
 LOCATION:          GOD FORBID YOU'RE ALSO THERE<p></p>
 CURRENT OBJECTIVE: GET RID OF SKILL ISSUE
 </h3>
+```
