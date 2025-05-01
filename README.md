@@ -22,14 +22,14 @@
 -LANGS:             ru-RU, en-US
 ◀◁-------------------------------◇◈◆◈◇---------------------------------▷▶
     
->cat /home/voxicurse/other-info
+>cat /home/voxicurse/other-useless-info
     
 ◀◁-------------------------------◇◈◆◈◇---------------------------------▷▶
 -SELF TAUGHT
 -TERRIBLE CODER
 -TERRIBLE APPEARANCE
--INSIGNIFICANT INTELLIGENCE
--CERTIFIED TIME WASTER
+-CERTIFIED OVERTHINKER
+-OCCASIONLY FUNCTIONING BRAIN
 -QUEEN BLUNDERING GRANDMASTER
 ◀◁-------------------------------◇◈◆◈◇---------------------------------▷▶
 </h3>
